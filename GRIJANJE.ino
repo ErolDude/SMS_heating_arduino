@@ -1,5 +1,4 @@
  /*
-(Copy and paste)
 
 Rotary encoder decoding using two interrupt lines.
 Most Arduino boards have two external interrupts,
